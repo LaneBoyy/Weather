@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="description">Background image</string>
+    <string name="hint_in_editText">Введите название города</string>
+    <string name="hint">Orenburg</string>
+    <string name="button_text">Показать погоду</string>
+    <string name="text_error">Такой город не существует</string>
+</resources>
